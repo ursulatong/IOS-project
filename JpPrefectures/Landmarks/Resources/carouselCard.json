@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1001,
+        "title":"Tokyo",
+        "subTitle":"Mount Fuji",
+        "imageName": "mountFuji"
+    },
+    
+    {
+        "id": 1002,
+        "title":"Kyoto",
+        "subTitle":"Fushimi Inari-Taisha",
+        "imageName": "fushimiInariTaisha"
+    },
+    
+    {
+        "id": 1003,
+        "title":"Okinawa",
+        "subTitle":"Churaumi Aquarium",
+        "imageName": "churaumiAquarium"
+    },
+    {
+        "id": 1004,
+        "title":"Hokkaido",
+        "subTitle":"Farm Tomita",
+        "imageName": "farmTomita"
+    },
+]

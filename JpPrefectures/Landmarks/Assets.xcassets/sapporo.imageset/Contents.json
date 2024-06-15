@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sapporo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,139 @@
+[
+    
+    {
+        "city": "Tokyo",
+        "id": 1001,
+        "coordinates": {
+            "longitude": 139.692222,
+            "latitude": 35.689722
+        },
+        "description": "Tokyo (/ˈtoʊkioʊ/;[8] Japanese: 東京, Tōkyō, [toːkʲoː] ⓘ), officially the Tokyo Metropolis (東京都, Tōkyō-to), is the capital city of Japan and one of the most populous cities in the world, with a population of over 14 million residents as of 2023.[9] The Greater Tokyo Area, which includes Tokyo and parts of six neighbouring prefectures, is the most-populous metropolitan area in the world, with 40.8 million residents as of 2023.",
+        "imageName": "tokyo",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Tokyo"
+
+    },
+    {
+        "city": "Osaka",
+        "id": 1002,
+        "coordinates": {
+            "longitude": 135.502222,
+            "latitude": 34.693889
+        },
+        "description": "Osaka (Japanese: 大阪市, Hepburn: Ōsaka-shi, pronounced [oːsakaɕi]; commonly just 大阪, Ōsaka [oːsaka] ⓘ) is a designated city in the Kansai region of Honshu in Japan, and one of the three major cities of Japan (Tokyo-Osaka-Nagoya). It is the capital of and most populous city in Osaka Prefecture, and the third-most populous city in Japan, following the special wards of Tokyo and Yokohama. With a population of 2.7 million in the 2020 census, it is also the largest component of the Keihanshin Metropolitan Area, which is the second-largest metropolitan area in Japan[4] and the 10th-largest urban area in the world with more than 19 million inhabitants.[3]",
+        "imageName": "osaka",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Osaka"
+
+    },
+    
+    {
+        "city": "Kyoto",
+        "id": 1003,
+        "coordinates": {
+            "longitude": 135.768333,
+            "latitude": 35.011667
+        },
+        "description": "Kyoto (/ˈkjoʊtoʊ/;[3] Japanese: 京都, Kyōto [kʲoꜜːto] ⓘ), officially Kyoto City (京都市, Kyōto-shi, [kʲoːtoꜜɕi] ⓘ), is the capital city of Kyoto Prefecture in the Kansai region of Japan's largest and most populous island of Honshu. As of 2020, the city had a population of 1.46 million, making it the ninth-most populous city in Japan. More than half (56.8%) of Kyoto Prefecture's population resides in the city. The city is the cultural anchor of the substantially larger Greater Kyoto, a metropolitan statistical area (MSA) home to a census-estimated 3.8 million people. It is also part of the even larger Keihanshin metropolitan area, along with Osaka and Kobe.",
+        "imageName": "kyoto",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Kyoto"
+
+    },
+    {
+        "city": "Okinawa",
+        "id": 1004,
+        "coordinates": {
+            "longitude": 128,
+            "latitude": 26.5
+        },
+        "description": "Okinawa Prefecture (Japanese: 沖縄県, Hepburn: Okinawa-ken) is the southernmost and westernmost prefecture of Japan.[2] It has a population of 1,457,162 (as of 2 February 2020) and a geographic area of 2,281 km2 (880 sq mi).",
+        "imageName": "okinawa",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Okinawa"
+
+    },
+    {
+        "city": "Hokkaido",
+        "id": 1005,
+        "coordinates": {
+            "longitude": 142,
+            "latitude": 43
+        },
+        "description": "Hokkaido (Japanese: 北海道, Hepburn: Hokkaidō, pronounced [hokkaꜜidoː] ⓘ, lit. 'Northern Sea Circuit') is the second-largest island of Japan and comprises the largest and northernmost prefecture, making up its own region.[2] The Tsugaru Strait separates Hokkaidō from Honshu; the two islands are connected by the undersea railway Seikan Tunnel.",
+        "imageName": "hokkaido",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Hokkaido"
+
+    },
+    
+    {
+        "city": "Sapporo",
+        "id": 1006,
+        "coordinates": {
+            "longitude": 141.3544,
+            "latitude": 43.0619
+        },
+        "description": "Sapporo[a] (札幌市, Sapporo-shi, [sapːoɾo ɕi] ⓘ) (Ainu: サッ・ポロ・ペッ, romanized: Satporopet, lit. 'Dry, Great River')[2] is a city in Japan. It is the largest city north of Tokyo and the largest city in Hokkaido, the northernmost main island of the country. It ranks as the fifth most populous city in Japan. It is the capital city of Hokkaido Prefecture and Ishikari Subprefecture. Sapporo lies in the southwest of Hokkaido, within the alluvial fan of the Toyohira River, which is a tributary stream of the Ishikari. It is considered the cultural, economic, and political center of Hokkaido.",
+        "imageName": "sapporo",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Sapporo"
+
+    },
+    
+    {
+        "city": "Yokohama",
+        "id": 1007,
+        "coordinates": {
+            "longitude": 139.6381,
+            "latitude": 35.4442
+        },
+        "description": "Yokohama (Japanese: 横浜, pronounced [jokohama] ⓘ) is the second-largest city in Japan by population[1] and by area, and the country's most populous municipality.[a] It is the capital and most populous city in Kanagawa Prefecture, with a population of 3.7 million in 2023. It lies on Tokyo Bay, south of Tokyo, in the Kantō region of the main island of Honshu. Yokohama is also the major economic, cultural, and commercial hub of the Greater Tokyo Area along the Keihin Industrial Zone.",
+        "imageName": "yokohama",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Yokohama"
+
+    },
+    {
+        "city": "Otaru",
+        "id": 1008,
+        "coordinates": {
+            "longitude": 141,
+            "latitude": 43.183333
+        },
+        "description": "Otaru (小樽市, Otaru-shi) is a city and port in Shiribeshi Subprefecture, Hokkaido, Japan, northwest of Sapporo. The city faces Ishikari Bay and the Sea of Japan, and has long served as the main port of the bay. With its many historical buildings, Otaru is a popular tourist destination. Because it is a 25-minute drive from Sapporo, it has grown as a commuter town. As of July 31, 2023, the city had an estimated population of 107,432 and a population density of 441 persons per km² (1,100 persons per mi²). The total area is 243.83 km2 (94.14 sq mi). Although it is the largest city in Shiribeshi Subprefecture, the subprefecture's capital is the more centrally located Kutchan.",
+        "imageName": "otaru",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Otaru"
+
+    },
+    {
+        "city": "Tottori",
+        "id": 1009,
+        "coordinates": {
+            "longitude": 133.766,
+            "latitude": 35.449
+        },
+        "description": "Tottori Prefecture (鳥取県, Tottori-ken) is a prefecture of Japan located in the Chūgoku region of Honshu.[2] Tottori Prefecture is the least populous prefecture of Japan at 538,525 (2023) and has a geographic area of 3,507.13 square kilometres (1,354.11 sq mi). Tottori Prefecture borders Shimane Prefecture to the west, Hiroshima Prefecture to the southwest, Okayama Prefecture to the south, and Hyōgo Prefecture to the east.",
+        "imageName": "tottori",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Tottori_Prefecture"
+
+    },
+    
+    {
+        "city": "Fukuoka",
+        "id": 1010,
+        "coordinates": {
+            "longitude": 130.401667,
+            "latitude": 33.59
+        },
+        "description": "Fukuoka (Japanese: 福岡市, Fukuoka-shi, [ɸɯ̥kɯokaꜜɕi] ⓘ) is the sixth-largest city in Japan and the capital city of Fukuoka Prefecture, Japan. The city is built along the shores of Hakata Bay, and has been a center of international commerce since ancient times. The area has long been considered the gateway to the country, as it is the nearest point among Japan's main islands to the Asian mainland. Although humans occupied the area since the Jomon period, some of the earliest settlers of the Yayoi period arrived in the Fukuoka area. The city rose to prominence during the Yamato period. Because of the cross-cultural exposure, and the relatively great distance from the social and political centers of Kyoto, Osaka, and later, Edo (Tokyo), Fukuoka gained a distinctive local culture and dialect that has persisted to the present.",
+        "imageName": "fukuoka",
+        "isFavorite": false,
+        "url": "https://en.wikipedia.org/wiki/Fukuoka"
+
+    },
+    
+    
+]
